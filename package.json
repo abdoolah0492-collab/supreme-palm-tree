@@ -1,0 +1,19 @@
+{
+  "name": "sonic-music-bot",
+  "version": "1.0.0",
+  "description": "ربات موزیکال سونیک پرو",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.19.0"
+  },
+  "keywords": [
+    "telegram",
+    "music-bot",
+    "sonic-pro"
+  ],
+  "author": "Sonic Pro",
+  "license": "MIT"
+}
